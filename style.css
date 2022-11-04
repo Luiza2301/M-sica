@@ -13,3 +13,15 @@ h4{color:rgb(248, 116, 171)}
 h5{color:rgb(248, 116, 171)}
 h6{color:rgb(248, 116, 171)}
 header{background: }
+.zeus{margin: auto;
+border:3px solid #ffff;
+padding: 5px;
+width: 25%;}
+.afrodite{margin: auto;
+    border:3px solid #ffff;
+    padding: 5px;
+    width: 25%;}
+    .algo{margin: auto;
+        border:3px solid #ffff;
+        padding: 5px;
+        width: 25%;}
